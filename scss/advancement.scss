@@ -1,0 +1,28 @@
+@layer vetools {
+	// FIXME temporary element selectors
+	#xp {
+		text-align: center;
+		font-size: 0.8em;
+		margin: 0 auto;
+	}
+
+	#xp th {
+		text-align: center;
+		padding: 0 0.5em;
+		cursor: initial !important;
+	}
+
+	#xp tr {
+		cursor: pointer;
+	}
+
+	#xp tr:nth-child(even) {
+		background: #d3d3d3;
+	}
+
+	.ve-night-mode {
+		#xp tr:nth-child(even) {
+			background: rgb(0 0 0 / 31%);
+		}
+	}
+}

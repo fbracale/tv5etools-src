@@ -2,7 +2,7 @@
 	"spellFluff": [
 		{
 			"name": "Control Flames",
-			"source": "XGE",
+			"source": "TVWG",
 			"images": [
 				{
 					"type": "image",
@@ -15,7 +15,7 @@
 		},
 		{
 			"name": "Danse Macabre",
-			"source": "XGE",
+			"source": "TVWG",
 			"images": [
 				{
 					"type": "image",
@@ -28,7 +28,7 @@
 		},
 		{
 			"name": "Erupting Earth",
-			"source": "XGE",
+			"source": "TVWG",
 			"images": [
 				{
 					"type": "image",
@@ -41,7 +41,7 @@
 		},
 		{
 			"name": "Find Greater Steed",
-			"source": "XGE",
+			"source": "TVWG",
 			"images": [
 				{
 					"type": "image",
@@ -54,7 +54,7 @@
 		},
 		{
 			"name": "Infernal Calling",
-			"source": "XGE",
+			"source": "TVWG",
 			"images": [
 				{
 					"type": "image",
@@ -67,7 +67,7 @@
 		},
 		{
 			"name": "Mighty Fortress",
-			"source": "XGE",
+			"source": "TVWG",
 			"images": [
 				{
 					"type": "image",
@@ -80,7 +80,7 @@
 		},
 		{
 			"name": "Shadow Blade",
-			"source": "XGE",
+			"source": "TVWG",
 			"images": [
 				{
 					"type": "image",
@@ -93,7 +93,7 @@
 		},
 		{
 			"name": "Storm Sphere",
-			"source": "XGE",
+			"source": "TVWG",
 			"images": [
 				{
 					"type": "image",
@@ -106,7 +106,7 @@
 		},
 		{
 			"name": "Tiny Servant",
-			"source": "XGE",
+			"source": "TVWG",
 			"images": [
 				{
 					"type": "image",
@@ -119,7 +119,7 @@
 		},
 		{
 			"name": "Whirlwind",
-			"source": "XGE",
+			"source": "TVWG",
 			"images": [
 				{
 					"type": "image",
