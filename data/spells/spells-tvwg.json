@@ -1,34 +1,31 @@
 {
 	"spell": [
 		{
-			"name": "Abi-Dalzim's Horrid Wilting",
+			"name": "Reincarnate",
 			"source": "TVWG",
-			"page": 150,
-			"otherSources": [
-				{
-					"source": "EEPC",
-					"page": 15
-				}
-			],
-			"level": 8,
+			"page": 1,
+			"level": 7,
 			"school": "N",
 			"time": [
 				{
-					"number": 1,
-					"unit": "action"
+					"number": 24,
+					"unit": "hour"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
-					"amount": 150
+					"type": "touch"
 				}
 			},
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a bit of sponge"
+				"m": {
+					"text": "a ruby worth 10,000+ GP, which the spell consumes",
+					"cost": 1000000,
+					"consume": true
+				}
 			},
 			"duration": [
 				{
@@ -36,19 +33,25 @@
 				}
 			],
 			"entries": [
-				"You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren't affected, and plants and water elementals make this saving throw with disadvantage. A creature takes {@damage 12d8} necrotic damage on a failed save, or half as much damage on a successful one.",
-				"Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly."
+				"With a touch, you revive a dead creature that has been dead for no more than a month, didn't die of old age, and wasn't Undead when it died.",
+				"The creature returns to life with all its {@variantrule Hit Points|XPHB}. This spell also neutralizes any poisons that affected the creature at the time of death.",
+				"Coming back from the dead is an ordeal. The target takes a -4 penalty to {@conditionsdiseases Exhaustion|XPHB}. Every time the target finishes a {@variantrule Long Rest|XPHB}, the penalty is reduced by 1 until it becomes 0.",
+				"Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a {@variantrule Long Rest|XPHB}, you can't cast spells again, and you have {@variantrule Disadvantage|XPHB} on {@variantrule D20 Test|XPHB|D20 Tests}."
 			],
-			"damageInflict": [
-				"necrotic"
-			],
-			"savingThrow": [
-				"constitution"
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "Using a Higher-Level Spell Slot",
+					"entries": [
+						"You can revive a dead creatura that has been dead for double the time for each spell slot level above 7."
+					]
+				}
 			],
 			"affectsCreatureType": [
 				"aberration",
 				"beast",
 				"celestial",
+				"construct",
 				"dragon",
 				"elemental",
 				"fey",
@@ -59,65 +62,48 @@
 				"ooze",
 				"plant"
 			],
-			"areaTags": [
-				"C"
+			"miscTags": [
+				"HL"
 			]
 		},
 		{
-			"name": "Absorb Elements",
+			"name": "Silvery Barbs",
 			"source": "TVWG",
-			"page": 150,
-			"otherSources": [
-				{
-					"source": "EEPC",
-					"page": 15
-				}
-			],
-			"level": 1,
-			"school": "A",
+			"page": 1,
+			"level": 2,
+			"school": "E",
 			"time": [
 				{
 					"number": 1,
 					"unit": "reaction",
-					"condition": "which you take when you take acid, cold, fire, lightning, or thunder damage"
+					"condition": "which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "self"
+					"type": "feet",
+					"amount": 60
 				}
 			},
 			"components": {
-				"s": true
+				"v": true
 			},
 			"duration": [
 				{
-					"type": "timed",
-					"duration": {
-						"type": "round",
-						"amount": 1
-					}
+					"type": "instant"
 				}
 			],
 			"entries": [
-				"The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra {@damage 1d6} damage of the triggering type, and the spell ends."
+				"You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the {@dice d20} and use the lower roll.",
+				"You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time."
 			],
-			"entriesHigherLevel": [
-				{
-					"type": "entries",
-					"name": "At Higher Levels",
-					"entries": [
-						"When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by {@scaledamage 1d6|1-9|1d6} for each slot level above 1st."
-					]
-				}
+			"miscTags": [
+				"ADV",
+				"SGT"
 			],
-			"damageResist": [
-				"acid",
-				"cold",
-				"fire",
-				"lightning",
-				"thunder"
+			"areaTags": [
+				"ST"
 			]
 		}
 	]

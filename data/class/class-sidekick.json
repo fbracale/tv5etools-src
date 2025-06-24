@@ -2,36 +2,36 @@
 	"class": [
 		{
 			"name": "Expert Sidekick",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"edition": "classic",
 			"isSidekick": true,
 			"classFeatures": [
-				"Sidekick Class|Expert Sidekick|TCE|1",
-				"Bonus Proficiencies|Expert Sidekick|TCE|1",
-				"Helpful|Expert Sidekick|TCE|1",
-				"Cunning Action|Expert Sidekick|TCE|2",
-				"Expertise|Expert Sidekick|TCE|3",
-				"Ability Score Improvement|Expert Sidekick|TCE|4",
-				"Coordinated Strike|Expert Sidekick|TCE|6",
-				"Evasion|Expert Sidekick|TCE|7",
-				"Ability Score Improvement|Expert Sidekick|TCE|8",
-				"Ability Score Improvement|Expert Sidekick|TCE|10",
-				"Inspiring Help|Expert Sidekick|TCE|11",
-				"Ability Score Improvement|Expert Sidekick|TCE|12",
-				"Reliable Talent|Expert Sidekick|TCE|14",
-				"Expertise|Expert Sidekick|TCE|15",
-				"Ability Score Improvement|Expert Sidekick|TCE|16",
-				"Sharp Mind|Expert Sidekick|TCE|18",
-				"Ability Score Improvement|Expert Sidekick|TCE|19",
-				"Inspiring Help Improvement|Expert Sidekick|TCE|20"
+				"Sidekick Class|Expert Sidekick|TVWG|1",
+				"Bonus Proficiencies|Expert Sidekick|TVWG|1",
+				"Helpful|Expert Sidekick|TVWG|1",
+				"Cunning Action|Expert Sidekick|TVWG|2",
+				"Expertise|Expert Sidekick|TVWG|3",
+				"Ability Score Improvement|Expert Sidekick|TVWG|4",
+				"Coordinated Strike|Expert Sidekick|TVWG|6",
+				"Evasion|Expert Sidekick|TVWG|7",
+				"Ability Score Improvement|Expert Sidekick|TVWG|8",
+				"Ability Score Improvement|Expert Sidekick|TVWG|10",
+				"Inspiring Help|Expert Sidekick|TVWG|11",
+				"Ability Score Improvement|Expert Sidekick|TVWG|12",
+				"Reliable Talent|Expert Sidekick|TVWG|14",
+				"Expertise|Expert Sidekick|TVWG|15",
+				"Ability Score Improvement|Expert Sidekick|TVWG|16",
+				"Sharp Mind|Expert Sidekick|TVWG|18",
+				"Ability Score Improvement|Expert Sidekick|TVWG|19",
+				"Inspiring Help Improvement|Expert Sidekick|TVWG|20"
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
 		},
 		{
 			"name": "Spellcaster Sidekick",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"edition": "classic",
 			"isSidekick": true,
@@ -369,46 +369,46 @@
 				}
 			],
 			"classFeatures": [
-				"Sidekick Class|Spellcaster Sidekick|TCE|1",
-				"Bonus Proficiencies|Spellcaster Sidekick|TCE|1",
-				"Spellcasting|Spellcaster Sidekick|TCE|1",
-				"Ability Score Improvement|Spellcaster Sidekick|TCE|4",
-				"Potent Cantrips|Spellcaster Sidekick|TCE|6",
-				"Ability Score Improvement|Spellcaster Sidekick|TCE|8",
-				"Ability Score Improvement|Spellcaster Sidekick|TCE|12",
-				"Empowered Spells|Spellcaster Sidekick|TCE|14",
-				"Ability Score Improvement|Spellcaster Sidekick|TCE|16",
-				"Ability Score Improvement|Spellcaster Sidekick|TCE|18",
-				"Focused Casting|Spellcaster Sidekick|TCE|20"
+				"Sidekick Class|Spellcaster Sidekick|TVWG|1",
+				"Bonus Proficiencies|Spellcaster Sidekick|TVWG|1",
+				"Spellcasting|Spellcaster Sidekick|TVWG|1",
+				"Ability Score Improvement|Spellcaster Sidekick|TVWG|4",
+				"Potent Cantrips|Spellcaster Sidekick|TVWG|6",
+				"Ability Score Improvement|Spellcaster Sidekick|TVWG|8",
+				"Ability Score Improvement|Spellcaster Sidekick|TVWG|12",
+				"Empowered Spells|Spellcaster Sidekick|TVWG|14",
+				"Ability Score Improvement|Spellcaster Sidekick|TVWG|16",
+				"Ability Score Improvement|Spellcaster Sidekick|TVWG|18",
+				"Focused Casting|Spellcaster Sidekick|TVWG|20"
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
 		},
 		{
 			"name": "Warrior Sidekick",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"edition": "classic",
 			"isSidekick": true,
 			"classFeatures": [
-				"Sidekick Class|Warrior Sidekick|TCE|1",
-				"Bonus Proficiencies|Warrior Sidekick|TCE|1",
-				"Martial Role|Warrior Sidekick|TCE|1",
-				"Second Wind|Warrior Sidekick|TCE|2",
-				"Improved Critical|Warrior Sidekick|TCE|3",
-				"Ability Score Improvement|Warrior Sidekick|TCE|4",
-				"Extra Attack|Warrior Sidekick|TCE|6",
-				"Battle Readiness|Warrior Sidekick|TCE|7",
-				"Ability Score Improvement|Warrior Sidekick|TCE|8",
-				"Improved Defense|Warrior Sidekick|TCE|10",
-				"Indomitable|Warrior Sidekick|TCE|11",
-				"Ability Score Improvement|Warrior Sidekick|TCE|12",
-				"Ability Score Improvement|Warrior Sidekick|TCE|14",
-				"Extra Attack Improvement|Warrior Sidekick|TCE|15",
-				"Ability Score Improvement|Warrior Sidekick|TCE|16",
-				"Indomitable Improvement|Warrior Sidekick|TCE|18",
-				"Ability Score Improvement|Warrior Sidekick|TCE|19",
-				"Second Wind Improvement|Warrior Sidekick|TCE|20"
+				"Sidekick Class|Warrior Sidekick|TVWG|1",
+				"Bonus Proficiencies|Warrior Sidekick|TVWG|1",
+				"Martial Role|Warrior Sidekick|TVWG|1",
+				"Second Wind|Warrior Sidekick|TVWG|2",
+				"Improved Critical|Warrior Sidekick|TVWG|3",
+				"Ability Score Improvement|Warrior Sidekick|TVWG|4",
+				"Extra Attack|Warrior Sidekick|TVWG|6",
+				"Battle Readiness|Warrior Sidekick|TVWG|7",
+				"Ability Score Improvement|Warrior Sidekick|TVWG|8",
+				"Improved Defense|Warrior Sidekick|TVWG|10",
+				"Indomitable|Warrior Sidekick|TVWG|11",
+				"Ability Score Improvement|Warrior Sidekick|TVWG|12",
+				"Ability Score Improvement|Warrior Sidekick|TVWG|14",
+				"Extra Attack Improvement|Warrior Sidekick|TVWG|15",
+				"Ability Score Improvement|Warrior Sidekick|TVWG|16",
+				"Indomitable Improvement|Warrior Sidekick|TVWG|18",
+				"Ability Score Improvement|Warrior Sidekick|TVWG|19",
+				"Second Wind Improvement|Warrior Sidekick|TVWG|20"
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
@@ -417,10 +417,10 @@
 	"classFeature": [
 		{
 			"name": "Bonus Proficiencies",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 1,
 			"entries": [
 				"{@i 1st-level Expert feature}",
@@ -430,10 +430,10 @@
 		},
 		{
 			"name": "Helpful",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 1,
 			"entries": [
 				"{@i 1st-level Expert feature}",
@@ -442,23 +442,23 @@
 		},
 		{
 			"name": "Sidekick Class",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 1,
 			"type": "inset",
 			"entries": [
 				"To gain the Expert class, a creature must have at least one language in its stat block that it can speak.",
-				"{@note Note: this class is intended for NPC {@variantrule sidekicks|tce}.}"
+				"{@note Note: this class is intended for NPC {@variantrule sidekicks|TVWG}.}"
 			]
 		},
 		{
 			"name": "Cunning Action",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 2,
 			"entries": [
 				"{@i 2nd-level Expert feature}",
@@ -467,10 +467,10 @@
 		},
 		{
 			"name": "Expertise",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 3,
 			"entries": [
 				"{@i 3rd-level Expert feature}",
@@ -480,10 +480,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 4,
 			"entries": [
 				"{@i 4th-level Expert feature}",
@@ -493,10 +493,10 @@
 		},
 		{
 			"name": "Coordinated Strike",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 6,
 			"entries": [
 				"{@i 6th-level Expert feature}",
@@ -505,10 +505,10 @@
 		},
 		{
 			"name": "Evasion",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 7,
 			"entries": [
 				"{@i 7th-level Expert feature}",
@@ -517,10 +517,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 8,
 			"entries": [
 				"{@i 8th-level Expert feature}",
@@ -530,10 +530,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 10,
 			"entries": [
 				"{@i 10th-level Expert feature}",
@@ -543,10 +543,10 @@
 		},
 		{
 			"name": "Inspiring Help",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 11,
 			"entries": [
 				"{@i 11th-level Expert feature}",
@@ -556,10 +556,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 12,
 			"entries": [
 				"{@i 12th-level Expert feature}",
@@ -569,10 +569,10 @@
 		},
 		{
 			"name": "Reliable Talent",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 14,
 			"entries": [
 				"{@i 14th-level Expert feature}",
@@ -581,10 +581,10 @@
 		},
 		{
 			"name": "Expertise",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 15,
 			"entries": [
 				"{@i 15th-level Expert feature}",
@@ -593,10 +593,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 16,
 			"entries": [
 				"{@i 16th-level Expert feature}",
@@ -606,10 +606,10 @@
 		},
 		{
 			"name": "Sharp Mind",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 18,
 			"entries": [
 				"{@i 18th-level Expert feature}",
@@ -618,10 +618,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 19,
 			"entries": [
 				"{@i 19th-level Expert feature}",
@@ -631,10 +631,10 @@
 		},
 		{
 			"name": "Inspiring Help Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 142,
 			"className": "Expert Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 20,
 			"entries": [
 				"{@i 20th-level Expert feature}",
@@ -643,10 +643,10 @@
 		},
 		{
 			"name": "Bonus Proficiencies",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"className": "Spellcaster Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 1,
 			"entries": [
 				"{@i 1st-level Spellcaster feature}",
@@ -657,23 +657,23 @@
 		},
 		{
 			"name": "Sidekick Class",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"className": "Spellcaster Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 1,
 			"type": "inset",
 			"entries": [
 				"To gain the Spellcaster class, a creature must have at least one language in its stat block that it can speak.",
-				"{@note Note: this class is intended for NPC {@variantrule sidekicks|tce}.}"
+				"{@note Note: this class is intended for NPC {@variantrule sidekicks|TVWG}.}"
 			]
 		},
 		{
 			"name": "Spellcasting",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"className": "Spellcaster Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 1,
 			"entries": [
 				"{@i 1st-level Spellcaster feature}",
@@ -784,10 +784,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"className": "Spellcaster Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 4,
 			"entries": [
 				"{@i 4th-level Spellcaster feature}",
@@ -797,10 +797,10 @@
 		},
 		{
 			"name": "Potent Cantrips",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"className": "Spellcaster Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 6,
 			"entries": [
 				"{@i 6th-level Spellcaster feature}",
@@ -809,10 +809,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"className": "Spellcaster Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 8,
 			"entries": [
 				"{@i 8th-level Spellcaster feature}",
@@ -822,10 +822,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"className": "Spellcaster Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 12,
 			"entries": [
 				"{@i 12th-level Spellcaster feature}",
@@ -835,10 +835,10 @@
 		},
 		{
 			"name": "Empowered Spells",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"className": "Spellcaster Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 14,
 			"entries": [
 				"{@i 14th-level Spellcaster feature}",
@@ -847,10 +847,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"className": "Spellcaster Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 16,
 			"entries": [
 				"{@i 16th-level Spellcaster feature}",
@@ -860,10 +860,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"className": "Spellcaster Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 18,
 			"entries": [
 				"{@i 18th-level Spellcaster feature}",
@@ -873,10 +873,10 @@
 		},
 		{
 			"name": "Focused Casting",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 144,
 			"className": "Spellcaster Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 20,
 			"entries": [
 				"{@i 20th-level Spellcaster feature}",
@@ -885,10 +885,10 @@
 		},
 		{
 			"name": "Bonus Proficiencies",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 1,
 			"entries": [
 				"{@i 1st-level Warrior feature}",
@@ -899,10 +899,10 @@
 		},
 		{
 			"name": "Martial Role",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 1,
 			"entries": [
 				"{@i 1st-level Warrior feature}",
@@ -927,22 +927,22 @@
 		},
 		{
 			"name": "Sidekick Class",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 1,
 			"type": "inset",
 			"entries": [
-				"{@note Note: this class is intended for NPC {@variantrule sidekicks|tce}.}"
+				"{@note Note: this class is intended for NPC {@variantrule sidekicks|TVWG}.}"
 			]
 		},
 		{
 			"name": "Second Wind",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 2,
 			"entries": [
 				"{@i 2nd-level Warrior feature}",
@@ -952,10 +952,10 @@
 		},
 		{
 			"name": "Improved Critical",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 3,
 			"entries": [
 				"{@i 3rd-level Warrior feature}",
@@ -964,10 +964,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 4,
 			"entries": [
 				"{@i 4th-level Warrior feature}",
@@ -977,10 +977,10 @@
 		},
 		{
 			"name": "Extra Attack",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 6,
 			"entries": [
 				"{@i 6th-level Warrior feature}",
@@ -991,10 +991,10 @@
 		},
 		{
 			"name": "Battle Readiness",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 7,
 			"entries": [
 				"{@i 7th-level Warrior feature}",
@@ -1003,10 +1003,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 8,
 			"entries": [
 				"{@i 8th-level Warrior feature}",
@@ -1016,10 +1016,10 @@
 		},
 		{
 			"name": "Improved Defense",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 10,
 			"entries": [
 				"{@i 10th-level Warrior feature}",
@@ -1028,10 +1028,10 @@
 		},
 		{
 			"name": "Indomitable",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 11,
 			"entries": [
 				"{@i 11th-level Warrior feature}",
@@ -1041,10 +1041,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 12,
 			"entries": [
 				"{@i 12th-level Warrior feature}",
@@ -1054,10 +1054,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 14,
 			"entries": [
 				"{@i 14th-level Warrior feature}",
@@ -1067,10 +1067,10 @@
 		},
 		{
 			"name": "Extra Attack Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 15,
 			"entries": [
 				"{@i 15th-level Warrior feature}",
@@ -1081,10 +1081,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 16,
 			"entries": [
 				"{@i 16th-level Warrior feature}",
@@ -1094,10 +1094,10 @@
 		},
 		{
 			"name": "Indomitable Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 18,
 			"entries": [
 				"{@i 18th-level Warrior feature}",
@@ -1107,10 +1107,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 19,
 			"entries": [
 				"{@i 19th-level Warrior feature}",
@@ -1120,10 +1120,10 @@
 		},
 		{
 			"name": "Second Wind Improvement",
-			"source": "TCE",
+			"source": "TVWG",
 			"page": 146,
 			"className": "Warrior Sidekick",
-			"classSource": "TCE",
+			"classSource": "TVWG",
 			"level": 20,
 			"entries": [
 				"{@i 20th-level Warrior feature}",

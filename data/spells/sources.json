@@ -1,12 +1,7 @@
 {
 	"TVWG": {
-		"Abi-Dalzim's Horrid Wilting": {
-			"classVariant": [
-				{
-					"name": "Sorcerer",
-					"source": "XPHB",
-					"definedInSource": "TVWG"
-				},
+		"Reincarnate": {
+			"class": [
 				{
 					"name": "Wizard",
 					"source": "XPHB",
@@ -14,31 +9,23 @@
 				}
 			]
 		},
-		"Absorb Elements": {
-			"classVariant": [
+		"Silvery Barbs": {
+			"class": [
 				{
-					"name": "Druid",
-					"source": "XPHB",
-					"definedInSource": "TVWG"
-				},
-				{
-					"name": "Ranger",
-					"source": "XPHB",
-					"definedInSource": "TVWG"
+					"name": "Bard",
+					"source": "XPHB"
 				},
 				{
 					"name": "Sorcerer",
-					"source": "XPHB",
-					"definedInSource": "TVWG"
+					"source": "XPHB"
 				},
 				{
 					"name": "Wizard",
-					"source": "XPHB",
-					"definedInSource": "TVWG"
+					"source": "XPHB"
 				}
 			]
 		}
-	},		
+	},
 	"XPHB": {
 		"Acid Splash": {
 			"class": [

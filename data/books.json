@@ -13,17 +13,41 @@
 			"author": "Dragão de Botas Team",
 			"contents": [
 				{
-					"name": "Introduction",
+					"name": "Using This Book",
 					"headers": [
-						"Using this Book",
-						"The Core Rules"
+						"What You'll Find Within",
+						"It's All Optional",
+						"Ten Rules to Remember"
 					]
 				},
 				{
 					"name": "Character Options",
 					"headers": [
-						"This is Your Life",
-						"Racial Feats"
+						"Customizing Your Origin",
+						"Changing a Skill",
+						"Changing Your Subclass",
+						"Artificer",
+						{
+							"depth": 1,
+							"header": "Artificers in Many Worlds"
+						},
+						"Barbarian",
+						"Bard",
+						"Cleric",
+						"Druid",
+						"Fighter",
+						{
+							"depth": 1,
+							"header": "Battle Master Builds"
+						},
+						"Monk",
+						"Paladin",
+						"Ranger",
+						"Rogue",
+						"Sorcerer",
+						"Warlock",
+						"Wizard",
+						"Feats"
 					],
 					"ordinal": {
 						"type": "chapter",
@@ -31,20 +55,11 @@
 					}
 				},
 				{
-					"name": "Dungeon Master's Tools",
+					"name": "Group Patrons",
 					"headers": [
-						"Simultaneous Effects",
-						"Falling",
-						"Sleep",
-						"Adamantine Weapons",
-						"Tying Knots",
-						"Tool Proficiencies",
-						"Spellcasting",
-						"Encounter Building",
-						"Random Encounters: A World of Possibilities",
-						"Traps Revisited",
-						"Downtime Revisited",
-						"Awarding Magic Items"
+						"How Patrons Work",
+						"Example Patrons",
+						"Being Your Own Patron"
 					],
 					"ordinal": {
 						"type": "chapter",
@@ -52,30 +67,91 @@
 					}
 				},
 				{
-					"name": "Spells",
+					"name": "Magical Miscellany",
+					"headers": [
+						"Spells",
+						"Personalizing Spells",
+						"Magic Items",
+						"Magic Tattoos",
+						"Magic Item Descriptions"
+					],
 					"ordinal": {
 						"type": "chapter",
 						"identifier": 3
 					}
 				},
 				{
-					"name": "Shared Campaigns",
+					"name": "Dungeon Master's Tools",
 					"headers": [
-						"Code of Conduct",
-						"Designing Adventures",
-						"Character Creation",
-						"Variant Rules"
+						"Session Zero",
+						"Sidekicks",
+						"Parleying with Monsters",
+						"Environmental Hazards",
+						"Puzzles",
+						{
+							"depth": 1,
+							"header": "Why Use Puzzles?"
+						},
+						{
+							"depth": 1,
+							"header": "Creature Paintings"
+						},
+						{
+							"depth": 1,
+							"header": "Reckless Steps"
+						},
+						{
+							"depth": 1,
+							"header": "Skeleton Keys"
+						},
+						{
+							"depth": 1,
+							"header": "All That Glitters"
+						},
+						{
+							"depth": 1,
+							"header": "Eye of the Beholder"
+						},
+						{
+							"depth": 1,
+							"header": "Four by Four"
+						},
+						{
+							"depth": 1,
+							"header": "Illusive Island"
+						},
+						{
+							"depth": 1,
+							"header": "Material Components"
+						},
+						{
+							"depth": 1,
+							"header": "Members Only"
+						},
+						{
+							"depth": 1,
+							"header": "Exact Change"
+						},
+						{
+							"depth": 1,
+							"header": "Four Elements"
+						},
+						{
+							"depth": 1,
+							"header": "Haunted Hallway"
+						},
+						{
+							"depth": 1,
+							"header": "What's on the Menu"
+						},
+						{
+							"depth": 1,
+							"header": "Puzzle Handouts"
+						}
 					],
 					"ordinal": {
-						"type": "appendix",
-						"identifier": "A"
-					}
-				},
-				{
-					"name": "Character Names",
-					"ordinal": {
-						"type": "appendix",
-						"identifier": "B"
+						"type": "chapter",
+						"identifier": 4
 					}
 				},
 				{
