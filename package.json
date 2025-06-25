@@ -1,7 +1,7 @@
 {
-	"name": "5etools",
-	"author": "TheGiddyLimit",
-	"version": "2.9.0",
+	"name": "tvetools",
+	"author": "MajorTeko",
+	"version": "0.9.0",
 	"license": "MIT",
 	"description": "A site dedicated to making playing games with your friends as easy as possible.",
 	"type": "module",
@@ -47,10 +47,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/5etools-mirror-3/5etools-src"
+		"url": "git+https://github.com/Terra-Vasta/TVeTools"
 	},
 	"devDependencies": {
-		"5etools-utils": "^0.13.25",
 		"ajv": "^8.12.0",
 		"ajv-formats": "^2.1.1",
 		"commander": "^12.0.0",
@@ -72,9 +71,9 @@
 		"workbox-cli": "^7.1.0"
 	},
 	"bugs": {
-		"url": "https://github.com/5etools-mirror-3/5etools-src/issues"
+		"url": "https://github.com/Terra-Vasta/TVeTools/issues"
 	},
-	"homepage": "https://github.com/5etools-mirror-3/5etools-src#readme",
+	"homepage": "https://github.com/Terra-Vasta/TVeTools#readme",
 	"directories": {
 		"lib": "lib",
 		"test": "test"

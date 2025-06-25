@@ -4,12 +4,6 @@
 			"name": "Artificer",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
 			"edition": "classic",
 			"hd": {
 				"number": 1,
@@ -490,12 +484,7 @@
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"page": 14,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 58
-				}
-			],
+			
 			"edition": "classic",
 			"additionalSpells": [
 				{
@@ -580,12 +569,7 @@
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"page": 17,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 59
-				}
-			],
+			
 			"edition": "classic",
 			"additionalSpells": [
 				{
@@ -628,12 +612,7 @@
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"page": 18,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 60
-				}
-			],
+			
 			"edition": "classic",
 			"additionalSpells": [
 				{
@@ -675,12 +654,7 @@
 			"name": "Magical Tinkering",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 1,
@@ -704,12 +678,7 @@
 			"name": "Optional Rule: Firearm Proficiency",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 1,
@@ -721,12 +690,7 @@
 			"name": "Spellcasting",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 1,
@@ -802,12 +766,7 @@
 			"name": "Infuse Item",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 2,
@@ -844,12 +803,7 @@
 			"name": "Infusions Known",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 2,
@@ -863,12 +817,7 @@
 			"name": "Artificer Specialist",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 3,
@@ -881,12 +830,7 @@
 			"name": "The Right Tool for the Job",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 3,
@@ -899,12 +843,7 @@
 			"name": "Ability Score Improvement",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 4,
@@ -918,12 +857,7 @@
 			"name": "Artificer Specialist Feature",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 5,
@@ -936,12 +870,7 @@
 			"name": "Tool Expertise",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 6,
@@ -954,12 +883,7 @@
 			"name": "Flash of Genius",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 7,
@@ -973,12 +897,7 @@
 			"name": "Ability Score Improvement",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 8,
@@ -992,12 +911,7 @@
 			"name": "Artificer Specialist Feature",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 9,
@@ -1010,12 +924,7 @@
 			"name": "Magic Item Adept",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 10,
@@ -1035,12 +944,7 @@
 			"name": "Spell-Storing Item",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 11,
@@ -1054,12 +958,7 @@
 			"name": "Ability Score Improvement",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 12,
@@ -1073,12 +972,7 @@
 			"name": "Magic Item Savant",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 14,
@@ -1098,12 +992,7 @@
 			"name": "Artificer Specialist Feature",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 15,
@@ -1116,12 +1005,7 @@
 			"name": "Ability Score Improvement",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 16,
@@ -1135,12 +1019,7 @@
 			"name": "Magic Item Master",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 18,
@@ -1153,12 +1032,7 @@
 			"name": "Ability Score Improvement",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 19,
@@ -1172,12 +1046,7 @@
 			"name": "Soul of Artifice",
 			"source": "TVWG",
 			"page": 9,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 54
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"level": 20,
@@ -1199,12 +1068,7 @@
 			"name": "Alchemist",
 			"source": "TVWG",
 			"page": 14,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 58
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Alchemist",
@@ -1230,12 +1094,7 @@
 			"name": "Alchemist Spells",
 			"source": "TVWG",
 			"page": 14,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 58
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Alchemist",
@@ -1284,12 +1143,7 @@
 			"name": "Experimental Elixir",
 			"source": "TVWG",
 			"page": 14,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 58
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Alchemist",
@@ -1345,12 +1199,7 @@
 			"name": "Tool Proficiency",
 			"source": "TVWG",
 			"page": 14,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 58
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Alchemist",
@@ -1365,12 +1214,7 @@
 			"name": "Alchemical Savant",
 			"source": "TVWG",
 			"page": 14,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 58
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Alchemist",
@@ -1385,12 +1229,7 @@
 			"name": "Restorative Reagents",
 			"source": "TVWG",
 			"page": 14,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 58
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Alchemist",
@@ -1412,12 +1251,7 @@
 			"name": "Chemical Mastery",
 			"source": "TVWG",
 			"page": 14,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 58
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Alchemist",
@@ -1777,12 +1611,7 @@
 			"name": "Artillerist",
 			"source": "TVWG",
 			"page": 17,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 59
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Artillerist",
@@ -1809,12 +1638,7 @@
 			"name": "Artillerist Spells",
 			"source": "TVWG",
 			"page": 17,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 59
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Artillerist",
@@ -1863,12 +1687,7 @@
 			"name": "Eldritch Cannon",
 			"source": "TVWG",
 			"page": 17,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 59
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Artillerist",
@@ -1912,12 +1731,7 @@
 			"name": "Tool Proficiency",
 			"source": "TVWG",
 			"page": 17,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 59
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Artillerist",
@@ -1932,12 +1746,7 @@
 			"name": "Arcane Firearm",
 			"source": "TVWG",
 			"page": 17,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 59
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Artillerist",
@@ -1953,12 +1762,7 @@
 			"name": "Explosive Cannon",
 			"source": "TVWG",
 			"page": 17,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 59
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Artillerist",
@@ -1980,12 +1784,7 @@
 			"name": "Fortified Position",
 			"source": "TVWG",
 			"page": 17,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 59
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Artillerist",
@@ -2007,12 +1806,7 @@
 			"name": "Battle Smith",
 			"source": "TVWG",
 			"page": 18,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 60
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Battle Smith",
@@ -2043,12 +1837,7 @@
 			"name": "Battle Ready",
 			"source": "TVWG",
 			"page": 18,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 60
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Battle Smith",
@@ -2070,12 +1859,7 @@
 			"name": "Battle Smith Spells",
 			"source": "TVWG",
 			"page": 18,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 60
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Battle Smith",
@@ -2124,12 +1908,7 @@
 			"name": "Steel Defender",
 			"source": "TVWG",
 			"page": 18,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 60
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Battle Smith",
@@ -2147,12 +1926,7 @@
 			"name": "Tool Proficiency",
 			"source": "TVWG",
 			"page": 18,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 60
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Battle Smith",
@@ -2167,12 +1941,7 @@
 			"name": "Extra Attack",
 			"source": "TVWG",
 			"page": 18,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 60
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Battle Smith",
@@ -2187,12 +1956,7 @@
 			"name": "Arcane Jolt",
 			"source": "TVWG",
 			"page": 18,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 60
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Battle Smith",
@@ -2215,12 +1979,7 @@
 			"name": "Improved Defender",
 			"source": "TVWG",
 			"page": 18,
-			"otherSources": [
-				{
-					"source": "ERLW",
-					"page": 60
-				}
-			],
+			
 			"className": "Artificer",
 			"classSource": "TVWG",
 			"subclassShortName": "Battle Smith",
